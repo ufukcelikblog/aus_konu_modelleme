@@ -10,4 +10,4 @@ bertopic
 plotly
 networkx
 pyldavis
-#rpy2
+rpy2

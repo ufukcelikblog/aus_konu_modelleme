@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+pyldavis
+bertopic
+plotly
+networkx
+pyldavis
+#rpy2
